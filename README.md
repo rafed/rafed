@@ -11,14 +11,14 @@
 <a target="_blank" href="https://rafed.github.io/devra/"><img src="https://img.shields.io/badge/Blog-%23FF5722.svg?&style=plastic&logo=Blogger&logoColor=white" alt="Blog"></a>
 <a target="_blank" href="https://www.linkedin.com/in/rafed-m-yasir/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a target="_blank" href="https://stackoverflow.com/users/5761286/rafed-muhammad-yasir"><img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?&style=plastic&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a>
-<a target="_blank" href="https://scholar.google.com/citations?user=dX3t-oUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20 Scholar-%234285F4.svg?&style=plastic&logo=Google Scholar&logoColor=white" alt="Google Scholar"></a>
+<a target="_blank" href="https://scholar.google.com/citations?user=dX3t-oUAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=plastic&logo=Google Scholar&logoColor=white" alt="Google Scholar"></a>
 <a target="_blank" href="https://www.youtube.com/channel/UC6uDg4IlPbLh2xNKrqnBczw"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=plastic&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a target="_blank" href="https://www.facebook.com/devrafed"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=Facebook&logoColor=white" alt="Facebook"></a>
 
 
-
-#### My tech stack include
-
+<details>
+    <summary>Backend skills</summary>
+    
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask)
@@ -26,28 +26,45 @@
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
+</details>
 
 
-
+<details>
+    <summary>Frontend skills</summary>
+    
 ![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat&logo=Hugo&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white)
+</details>
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
+<details>
+    <summary>Cloud skills</summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=Nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google--cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white)
+</details>
 
+
+<details>
+    <summary>ML skills</summary>
+    
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)
+
+</details>
+
+<details>
+    <summary>Network & Security skills</summary>
+    
 ![Kali Linux](https://img.shields.io/badge/-Kali--Linux-557C94?style=flat&logo=Kali%20Linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![And many more...](https://img.shields.io/badge/-And--many--more...-black?style=flat&logo=&logoColor=white)
-
+</details>
 
 <!-- ![](https://img.shields.io/badge/--black?style=plastic&logo=) -->
 
