@@ -16,7 +16,7 @@
 <a target="_blank" href="https://www.facebook.com/devrafed"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=Facebook&logoColor=white" alt="Facebook"></a>
 
 
-<details>
+<!-- <details>
     <summary>Backend skills</summary>
     
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -64,7 +64,7 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali--Linux-557C94?style=flat&logo=Kali%20Linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![And many more...](https://img.shields.io/badge/-And--many--more...-black?style=flat&logo=&logoColor=white)
-</details>
+</details> -->
 
 <!-- ![](https://img.shields.io/badge/--black?style=plastic&logo=) -->
 
