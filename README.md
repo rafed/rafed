@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/StackOverflow-%23FE7A16.svg?&style=plastic&logo=stackoverflow&logoColor=white" alt="StackOverflow">
 </a>
 <a target="_blank" href="https://scholar.google.com/citations?user=dX3t-oUAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=plastic&logo=Google Scholar&logoColor=white" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=plastic&logo=Google Scholar&logoColor=white" alt="Google Scholar">
 </a>
 <a target="_blank" href="https://www.youtube.com/channel/UC6uDg4IlPbLh2xNKrqnBczw">
     <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=plastic&logo=YouTube&logoColor=white" alt="YouTube">
